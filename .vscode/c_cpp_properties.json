@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/GitWork/waste-check/include",
-                "c:/GitWork/waste-check/src",
+                "c:/Users/solom/GitWork/waste-check/include",
+                "c:/Users/solom/GitWork/waste-check/src",
                 "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                 "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                 "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -107,8 +107,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/GitWork/waste-check/include",
-                    "c:/GitWork/waste-check/src",
+                    "c:/Users/solom/GitWork/waste-check/include",
+                    "c:/Users/solom/GitWork/waste-check/src",
                     "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                     "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                     "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
