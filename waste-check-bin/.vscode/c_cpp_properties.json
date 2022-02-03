@@ -10,6 +10,11 @@
             "includePath": [
                 "c:/Users/solom/GitWork/waste-check/waste-check-bin/include",
                 "c:/Users/solom/GitWork/waste-check/waste-check-bin/src",
+                "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
+                "c:/Users/solom/GitWork/waste-check/waste-check-bin/.pio/libdeps/esp32dev/MAX1704X/src",
+                "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
+                "c:/Users/solom/GitWork/waste-check/waste-check-bin/.pio/libdeps/esp32dev/HX711/src",
+                "c:/Users/solom/GitWork/waste-check/waste-check-bin/.pio/libdeps/esp32dev/PubSubClient/src",
                 "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                 "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                 "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -97,10 +102,8 @@
                 "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                 "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                 "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
-                "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 "C:/Users/solom/.platformio/packages/tool-unity",
                 ""
             ],
@@ -109,6 +112,11 @@
                 "path": [
                     "c:/Users/solom/GitWork/waste-check/waste-check-bin/include",
                     "c:/Users/solom/GitWork/waste-check/waste-check-bin/src",
+                    "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
+                    "c:/Users/solom/GitWork/waste-check/waste-check-bin/.pio/libdeps/esp32dev/MAX1704X/src",
+                    "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
+                    "c:/Users/solom/GitWork/waste-check/waste-check-bin/.pio/libdeps/esp32dev/HX711/src",
+                    "c:/Users/solom/GitWork/waste-check/waste-check-bin/.pio/libdeps/esp32dev/PubSubClient/src",
                     "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                     "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                     "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -196,10 +204,8 @@
                     "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                     "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                     "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                    "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                     "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
-                    "C:/Users/solom/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     "C:/Users/solom/.platformio/packages/tool-unity",
                     ""
                 ]
